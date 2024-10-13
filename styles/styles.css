@@ -3,7 +3,7 @@ body {
     background-image: linear-gradient(red, green);
 }
 
-h2,
+h3,
 i {
     margin-left: 150px;
     margin-top: 17px;
@@ -29,7 +29,7 @@ span {
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
-    background-image: url(../images/Robert_Downey_Jr..png);
+    background-image: url(/images/Robert_Downey_Jr..png);
     vertical-align: middle;
 }
 
