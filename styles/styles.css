@@ -1,0 +1,169 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(red, green);
+}
+
+h2,
+i {
+    margin-left: 150px;
+    margin-top: 17px;
+    margin-bottom: 0px;
+    display: block;
+
+}
+
+img {
+    height: 1500px;
+    max-width: 100%;
+}
+
+span {
+    float: left;
+}
+
+#robert-downey-jr {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(/images/Robert_Downey_Jr..png);
+    vertical-align: middle;
+}
+
+#chris-evans {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(/images/Chris_Evans.png);
+}
+
+#chris-hemsworth {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(/images/Chris_Hemsworth.png);
+}
+
+#jeremy-renner {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(/images/Jeremy_Renner.png);
+}
+
+#mark-ruffalo {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(/images/Mark_Ruffalo.png);
+}
+
+#scarlett-johansson {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(/images/Scarlett_Johansson.png);
+}
+
+#tom-hiddleston {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(/images/Tom_Hiddleston.png);
+}
+
+table {
+    margin: 25px;
+    background-color: rgb(142, 112, 199);
+}
+
+td,
+th {
+    width: 33%;
+    padding: 5px;
+}
+
+i {
+    color: gold;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
+
+.sousTitres {
+    text-align: left;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.backgroundVert {
+    background-color: green;
+}
+
+
+/* 
+table,
+tr,
+th,
+td {
+    border: 4px solid black;
+    border-collapse: collapse;
+} */
+td {
+    vertical-align: middle;
+    padding-left: 10px;
+}
+
+#titreAvengers {
+    background-color: black;
+    color: white;
+    font-size: large;
+
+}
+
+#distribution {
+    font-size: x-large;
+    background-color: rgb(5, 53, 5);
+    color: white;
+    text-align: left;
+}
+
+.photoActeur {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
