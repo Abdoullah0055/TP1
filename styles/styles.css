@@ -29,7 +29,7 @@ span {
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
-    background-image: url(/images/Robert_Downey_Jr..png);
+    background-image: url(../images/Robert_Downey_Jr..png);
     vertical-align: middle;
 }
 
