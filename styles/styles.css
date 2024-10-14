@@ -126,10 +126,6 @@ header {
     font-size: x-large;
 }
 
-.backgroundVert {
-    background-color: green;
-}
-
 td {
     vertical-align: middle;
     padding-left: 10px;
