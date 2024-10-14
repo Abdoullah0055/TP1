@@ -101,7 +101,7 @@ span {
 
 table {
     margin: 25px;
-    background-color: rgb(142, 112, 199);
+    background-color: rgb(230, 100, 49);
 }
 
 td,
@@ -130,15 +130,6 @@ header {
     background-color: green;
 }
 
-
-/* 
-table,
-tr,
-th,
-td {
-    border: 4px solid black;
-    border-collapse: collapse;
-} */
 td {
     vertical-align: middle;
     padding-left: 10px;
@@ -147,7 +138,7 @@ td {
 #titreAvengers {
     background-color: black;
     color: white;
-    font-size: large;
+    font-size: xx-large;
 
 }
 
@@ -167,3 +158,12 @@ td {
     background-repeat: no-repeat;
     display: inline-block;
 }
+
+/*
+table,
+tr,
+th,
+td {
+    border: 4px solid black;
+    border-collapse: collapse;
+} */
